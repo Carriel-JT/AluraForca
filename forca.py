@@ -23,7 +23,7 @@ def jogar():
 
         print(letras_acertadas)
 
-        enforcou = erros == 6
+        enforcou = erros == 7
         acertou = "_" not in letras_acertadas
 
     if(acertou):
